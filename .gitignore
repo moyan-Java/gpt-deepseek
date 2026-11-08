@@ -1,0 +1,3 @@
+workspaces/*
+!workspaces/.gitkeep
+dev_tool/test/.work/
